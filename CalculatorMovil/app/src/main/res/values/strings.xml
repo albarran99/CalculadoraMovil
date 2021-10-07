@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorMovil</string>
+    <string name="tvNumberX">Introduce un numero X</string>
+    <string name="tvNumberY">Introduce un numero Y</string>
+    <string name="tvResult">El resultado es: </string>
+    <string name="btnSum">+</string>
+    <string name="btnSus">-</string>
+    <string name="btnDiv">/</string>
+    <string name="btnMult">*</string>
+    <string name="btnReset">Resetear</string>
+
+</resources>
